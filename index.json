@@ -1,6 +1,6 @@
 [
   {
-    "@id": "articles/startpoint-roles",
+    "@id": "startpoint-roles",
     "track": "checklist",
     "discipline": "Checklist #1",
     "order": "1",
@@ -10,7 +10,7 @@
       "checklist",
       "compliance",
       "eskil"
-    ],  },
+    ]  },
   {
     "@id": "standards-managers",
     "track": "template",
